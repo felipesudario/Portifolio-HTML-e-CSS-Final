@@ -1,7 +1,7 @@
 
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
-
+<img src="capa readme.png" alt="Capa Portifólio">
 
 ## Ferramentas utilizadas:
 
